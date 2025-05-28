@@ -1,0 +1,10 @@
+1, Mumbai, Apartment, Kahan, 10, 5
+2, Delhi, Apartment, Suresh, 8, 2
+3, Kolkata, Apartment, Nand, 15, 6
+4, Pune, Apartment, Parth, 8, 8
+5, Ahmedabad, Apartment, Karma, 6, 1
+6, Chennai, Apartment, Tirth, 2, 15
+7, Ahmedabad, Bungalow, Mahendra, 12
+8, Udaipur, Bungalow, Hritika, 2
+9, Mumbai, Bungalow, Nihar, 12
+10, Delhi, Bungalow, Arham, 4

@@ -1,0 +1,5 @@
+Param, 80000
+Sanchita, 100000
+Aryan, 70000
+Vrajraj, 150000
+Vihaan, 90000
